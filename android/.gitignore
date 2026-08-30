@@ -1,0 +1,38 @@
+# Ignore Gradle files
+.gradle
+/build
+/app/build
+
+# Ignore IDE files
+.idea
+.vscode
+*.iml
+*.swp
+*.swo
+*~
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore local properties with API keys
+local.properties
+.env
+
+# Ignore generated files
+/captures
+.externalNativeBuild
+.cxx
+
+# Ignore local Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environments
+venv/
+env/
+.venv
+
+# Ignore node modules (if using any JS tools)
+node_modules/

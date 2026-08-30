@@ -1,0 +1,8 @@
+# Local properties for VirtualTryOn-AI
+# DO NOT commit this file to version control
+
+# API Keys
+RUNWAY_API_KEY=
+HUGGINGFACE_API_TOKEN=
+REMOVE_BG_API_KEY=
+INSIGHTFACE_API_KEY=
